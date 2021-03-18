@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\DSI\S2\c#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.dll
+C:\Users\ASUS\Desktop\DSI\S2\c#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\ASUS\Desktop\DSI\S2\c#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DSI\S2\c#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DSI\S2\c#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.dll
+C:\Users\ASUS\Desktop\DSI\S2\c#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
