@@ -1,0 +1,18 @@
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\bin\Debug\netstandard2.0\InterfaceCalcul.deps.json
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\bin\Debug\netstandard2.0\InterfaceCalcul.dll
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\bin\Debug\netstandard2.0\InterfaceCalcul.pdb
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.dll
+C:\Users\ASUS\Desktop\DSI\InterfaceCalcul\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.pdb
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\bin\Debug\netstandard2.0\InterfaceCalcul.deps.json
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\bin\Debug\netstandard2.0\InterfaceCalcul.dll
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\bin\Debug\netstandard2.0\InterfaceCalcul.pdb
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.dll
+C:\Users\ASUS\Desktop\DSI\S2\Compte Rendus\calculatrice\InterfaceCalcul\obj\Debug\netstandard2.0\InterfaceCalcul.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdLeT9W6Sp/J2E7qUtxodjUwpCh+7zfoeoq7QlFtfDqOkeYdv62FHBZL7tD0eGj+6laje3L9RLp/8PUu4KnLGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\DSI\\S2\\Compte Rendus\\calculatrice\\InterfaceCalcul\\InterfaceCalcul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

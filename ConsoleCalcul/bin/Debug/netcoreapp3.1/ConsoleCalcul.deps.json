@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleCalcul/1.0.0": {
+        "dependencies": {
+          "Calculatrice": "1.0.0",
+          "WinFormCalcul": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleCalcul.dll": {}
+        }
+      },
+      "Calculatrice/1.0.0": {
+        "dependencies": {
+          "InterfaceCalcul": "1.0.0"
+        },
+        "runtime": {
+          "Calculatrice.dll": {}
+        }
+      },
+      "InterfaceCalcul/1.0.0": {
+        "runtime": {
+          "InterfaceCalcul.dll": {}
+        }
+      },
+      "WinFormCalcul/1.0.0": {
+        "dependencies": {
+          "InterfaceCalcul": "1.0.0"
+        },
+        "runtime": {
+          "WinFormCalcul.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleCalcul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calculatrice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfaceCalcul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinFormCalcul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
